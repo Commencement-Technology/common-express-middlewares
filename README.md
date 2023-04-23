@@ -1,10 +1,10 @@
-# Common util functionalities
+# Common utils functionalities
 
 ### This library provides error handling for requests and general errors in Express.js based application.
 
 ## Installation
 
-`npm i `
+`npm i common-utils-functionalities`
 
 ## Usage
 

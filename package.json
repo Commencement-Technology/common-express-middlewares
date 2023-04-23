@@ -1,6 +1,6 @@
 {
-  "name": "common-utils",
-  "version": "1.0.0",
+  "name": "common-utils-functionalities",
+  "version": "1.0.2",
   "description": "Common util functions",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",

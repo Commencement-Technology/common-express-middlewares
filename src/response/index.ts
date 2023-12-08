@@ -1,7 +1,7 @@
 interface ResponseOptions {
   statusCode?: number;
   message?: string;
-  data?: any[];
+  data?: any;
   ok?: boolean;
 }
 

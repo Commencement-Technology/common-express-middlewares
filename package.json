@@ -1,6 +1,6 @@
 {
   "name": "common-utils-functionalities",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Common util functions",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -18,5 +18,9 @@
   "devDependencies": {
     "@types/express": "^4.17.17",
     "typescript": "^5.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pprathameshmore/common-express-middlewares.git"
   }
 }
